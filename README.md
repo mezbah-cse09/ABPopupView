@@ -1,6 +1,7 @@
 ABPopupView 0.1
-Aron Bury 2012
 ===========
+Aron Bury 2012
+
 
 ABPopupView is a simple 'tooltip' style view that 'pops up' on a given point on the screen and is dismissed when the user taps again
 
